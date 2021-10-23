@@ -29,7 +29,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![revansGIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=revansGIT)](https://github.com/anuraghazra/github-readme-stats)
+  ![revansGIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=revansGIT&show_icons=true&theme=dracula)
 
 </details>
 
