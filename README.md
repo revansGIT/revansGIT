@@ -10,6 +10,12 @@
 - 🥅 2021 Goals: learn more from Open Source projects
 - ⚡ Fun fact: I love to play video games
 
+### Connect with me:
+
+[<img align="left" alt="revansGIT | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="revansGIT | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][page]
+[<img align="left" alt="revansGIT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 <br />
 <br />
 
@@ -33,4 +39,6 @@
 
 </details>
 
+[discord]: https://discord.gg/fCXnUKX
+[page]: https://www.facebook.com/good.man.arkantosk
 [youtube]: https://www.youtube.com/channel/UCH53Ku7w-GX5gRrg4jIZgtg
