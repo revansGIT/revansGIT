@@ -29,7 +29,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="revansGIT's GitHub Stats" src="(https://github-readme-stats.vercel.app/api?username=revansGIT)" />
+  [![revansGIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=revansGIT)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
