@@ -3,11 +3,11 @@
 
 ## I'm a Student and Developer!!
 
-- 🔭 I'm currently working on a [Python 3 Course!]
+- 🔭 I'm currently working on a [Flutter Skill]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with PyGame
-- 🥅 2021 Goals: learn more from Open Source projects
+- 🤔 I’m looking for help with App development or any python related or N8N workflow. 
+- 🥅 2025 Goals: learn more from Open Source projects
 - ⚡ Fun fact: I love to play video games
 
 ### Connect with me:
