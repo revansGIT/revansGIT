@@ -2,16 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&customColorList=6,11,20,29&text=Khaled%20Osama&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Flutter%20Mobile%20Developer%20%7C%20Learning%20Backend&descSize=18&descAlignY=60"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Flutter+Developer+focused+on+Clean+Architecture;Building+Scalable+Mobile+Apps;Learning+Backend+and+System+Design;Code+with+Purpose+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Flutter+Developer+focused+on+Clean+Architecture;Building+Scalable+Mobile+Apps;Learning+Backend+and+System+Design;Code+with+Purpose+🔥" />
 </p>
 
 ---
 
 ## 💫 About Me
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revansGIT&theme=radical" />
-</p>
 
 - 🚀 **Flutter Mobile Application Developer** focused on advanced Flutter & clean architecture  
 - 🐍 Strong foundation in **Python** and **Object-Oriented Programming (OOP)**  
@@ -34,7 +30,7 @@
 
 ---
 
-## 💻 Tech Stack (Animated Badges)
+## 💻 Tech Stack
 
 ### 📱 Mobile & Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
@@ -50,12 +46,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite)
 
-### 🧠 Programming & Data
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
 ### ⚙️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
@@ -68,24 +58,20 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revansGIT&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=revansGIT&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=revansGIT&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=revansGIT&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revansGIT&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revansGIT&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
 
-## 🏆 Achievements & Activity
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=revansGIT&theme=radical&margin-w=10"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revansGIT&theme=radical"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=revansGIT&theme=radical&no-frame=true&margin-w=12"/>
 </p>
 
 ---
@@ -98,6 +84,7 @@
 ---
 
 ## 💰 Support My Work
+
 <p align="center">
   <a href="https://buymeacoffee.com/its_sindar">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
