@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/31/79/3b/31793bea5b0655dd21447c8981c81b08.gif" alt="Banner" width="100%" />
+<img src="./assets/banner.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🚀 Flutter Mobile Application Developer focused on advanced Flutter development
