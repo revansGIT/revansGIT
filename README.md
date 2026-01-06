@@ -10,7 +10,6 @@
   </a>
 </p>
 
-<img src="./assets/banner.gif" alt="Banner" width="100%" />
 <img src="https://raw.githubusercontent.com/revansGIT/revansGIT/main/assets/banner.gif" width="100%" />
 
 
