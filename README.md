@@ -38,7 +38,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=revansGIT&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=revansGIT&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=revansGIT&theme=aura)](https://github.com/revansGIT/github-profile-trophy)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=revansGIT&limit=5&theme=radical&combine_all_yearly_contributions=true)
