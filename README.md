@@ -1,108 +1,109 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Khaled%20Osama&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Mobile%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<!-- ===== Animated Header ===== -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&customColorList=6,11,20,29&text=Khaled%20Osama&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Flutter%20Mobile%20Developer%20%7C%20Learning%20Backend&descSize=18&descAlignY=60"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=I+would+rather+let+the+world+down,+than+be+let+down+by+the+world." />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=revansGIT&label=Profile%20Views&color=00FFFF&style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Flutter+Developer+focused+on+Clean+Architecture;Building+Scalable+Mobile+Apps;Learning+Backend+and+System+Design;Code+with+Purpose+%F0%9F%94%A5" />
 </p>
 
 ---
 
-## 👋 About Me
+## 💫 About Me
 
-- 🚀 Flutter Mobile Application Developer focused on **advanced Flutter & scalable app architecture**
-- 🧠 Strong foundation in **Python** and **Object-Oriented Programming (OOP)**
-- 🎨 Experienced in **frontend development** and **UI/UX-focused design**
-- 🎓 Final-year **CSE student** at **Green University of Bangladesh**
-- 🗄️ Hands-on experience with **database design and management**
-- 🔧 Currently expanding skills in **backend development & API integration**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revansGIT&theme=radical" />
+</p>
+
+- 🚀 **Flutter Mobile Application Developer** focused on advanced Flutter & clean architecture  
+- 🐍 Strong foundation in **Python** and **Object-Oriented Programming (OOP)**  
+- 🎨 Solid experience in **frontend development** and **UI-focused design**  
+- 🎓 Final-year **CSE student** at **Green University of Bangladesh**  
+- 🗄️ Experienced in **database design & management**  
+- 🔧 Currently expanding skills in **backend development & APIs**
 
 ---
 
-## 🎯 Focus Areas
+## 🌐 Connect With Me
 
-- 📱 Advanced Flutter development (Clean Architecture, State Management)
-- 🎨 Responsive UI, performance optimization, and design consistency
-- 🔧 Backend fundamentals, REST APIs, and database-driven apps
+<p align="center">
+  <a href="https://discord.gg/fCXnUKX"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://facebook.com/good.man.arkantosk"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/khaledosama-cse"><img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="https://youtube.com/@SindarPlays"><img src="https://img.shields.io/badge/YouTube-FF00FF?style=for-the-badge&logo=youtube&logoColor=black"/></a>
+  <a href="mailto:revan74k@gmail.com"><img src="https://img.shields.io/badge/Gmail-00FFFF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack (Animated Badges)
 
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-</p>
-
-### 🎨 Frontend & Mobile
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-</p>
+### 📱 Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 
 ### 🔧 Backend & Database
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45"/>
-</p>
+![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite)
+
+### 🧠 Programming & Data
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
 ### ⚙️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=revansGIT&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=revansGIT&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revansGIT&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revansGIT&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=revansGIT&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=revansGIT&theme=radical&margin-w=10"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revansGIT&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/khaledosama-cse/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="https://www.youtube.com/@SindarPlays" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF00FF?style=for-the-badge&logo=youtube&logoColor=black"/>
-  </a>
-  <a href="mailto:revan74k@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00FFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-  <a href="https://wa.me/1313607435">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revansGIT&theme=radical"/>
 </p>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
+---
+
+## 💰 Support My Work
+<p align="center">
+  <a href="https://buymeacoffee.com/its_sindar">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=revansGIT&icon=10&color=0"/>
+</p>
