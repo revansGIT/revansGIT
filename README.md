@@ -23,9 +23,9 @@
 
 
 ## 🧠 My Focus Areas
-- 📱 Advanced Flutter development and scalable mobile apps.
-- 🎨 Clean, responsive UI and frontend architecture.
-- 🔧 Backend fundamentals and API integration.
+- 📱 Advanced Flutter development and scalable mobile apps
+- 🎨 Clean, responsive UI and frontend architecture
+- 🔧 Backend fundamentals and API integration
 
 
 ## 🌐 Socials: 
