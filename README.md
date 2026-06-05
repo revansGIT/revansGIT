@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=revansGIT&theme=radical&hide_border=false" width="97%" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=revansGIT&theme=radical&hide_border=false" width="97%" />
 </p>
 
 ### 🔝 Top Contributed Repo
@@ -67,7 +67,7 @@
 
 ## 💰 Support My Work
 <p align="center">
-  <a href="https://buymeacoffee.com/its_sindar">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  <a href="https://buymeacoffee.com/its_sindar" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </p>
