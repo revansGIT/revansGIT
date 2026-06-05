@@ -50,24 +50,24 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revansGIT&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revansGIT&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=revansGIT&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revansGIT&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=revansGIT&theme=radical&hide_border=false" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=revansGIT&theme=radical&hide_border=false" width="97%" alt="GitHub Streak Stats" />
 </p>
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=revansGIT&limit=5&theme=radical&combine_all_yearly_contributions=true" width="97%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=revansGIT&limit=5&theme=radical&combine_all_yearly_contributions=true" width="97%" alt="Top Contributed Repositories" />
 </p>
 
 ---
 
 ## 💰 Support My Work
 <p align="center">
-  <a href="https://buymeacoffee.com/its_sindar" target="_blank">
+  <a href="https://buymeacoffee.com/its_sindar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </p>
